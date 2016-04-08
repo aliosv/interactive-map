@@ -4,8 +4,8 @@
   "minZoomPixelSize" : [576, 640],
   "minZoom" : 12,
   "zoom" : 18,
-  "tilesUrl" : "../../tiles/%id/%z/tile-%x-%y.png",
-  "tiles404Url" : "../../tiles/404.png",
+  "tilesUrl" : "tiles/%id/%z/tile-%x-%y.png",
+  "tiles404Url" : "tiles/404.png",
   "layers" : [
     {
       "id" : 1,
