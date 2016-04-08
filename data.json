@@ -1,0 +1,45 @@
+{
+  "center" : [55.74995, 37.537815],
+  "layersZoomRange" : [19, 20],
+  "minZoomPixelSize" : [576, 640],
+  "minZoom" : 12,
+  "zoom" : 18,
+  "tilesUrl" : "../../tiles/%id/%z/tile-%x-%y.png",
+  "tiles404Url" : "../../tiles/404.png",
+  "layers" : [
+    {
+      "id" : 1,
+      "name": "1 этаж",
+      "objects": [
+        {
+          "name": "Универсам",
+          "url" : "http://yandex.ru",
+          "img" : "/tiles/1/19/tile-316812-164371.png",
+          "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at augue quis purus ultrices scelerisque sed ac dui. Curabitur suscipit nec ex quis suscipit. Aenean lacinia, tortor ac efficitur accumsan, turpis lectus lobortis justo, quis viverra dolor metus quis lacus. Praesent accumsan aliquet enim non commodo. Morbi posuere lacus tellus, id aliquam tortor gravida in. Mauris in magna eros. Donec vitae eleifend risus. Curabitur blandit fringilla vehicula.",
+          "coords": [[353,667.00001],[394,679.00001],[445,664.00001],[474,642.00001],[489,611.00001],[635,616.00001],[632,772.00001],[344,775.00001],[344,681.00001]]
+        },
+        {
+          "name": "123",
+          "url" : "http://yandex.ru",
+          "description" : "",
+          "coords": [[241.79804,700.83171],[328.79804,646.83171],[351.79804,664.83171],[341.79804,681.83171],[338.79804,771.83171],[279.79804,773.83171]]
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "name": "2 этаж",
+      "objects": [
+        { "name": "Зона 2", "coords": [] }
+      ]
+    },
+    {
+      "id" : 3,
+      "name": "3 этаж",
+      "objects": [
+        { "name": "Зона 3", "coords": [] },
+        { "name": "Зона 3", "coords": [] }
+      ]
+    }
+  ]
+}
